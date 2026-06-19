@@ -1,0 +1,7 @@
+#The Setup
+<!DOCTYPE html>
+What it means: This is the Document Type Declaration. It tells the web browser, "Hey, expect to read a modern HTML5 document." Without it, older browsers might go into "quirks mode" and render your page incorrectly.
+
+#The Root
+<html lang="en">
+What it means: This is the root element that wraps all the code on your page. The lang="en" attribute specifies that the primary language of the document is English. This is crucial for search engines and screen readers used by visually impaired users.
